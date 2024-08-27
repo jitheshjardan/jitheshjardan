@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer<br>I'm currently working on BharatOne<br>I'm currently working on PHP<br>For more info contact me :jnrjithesh62@gmail.com
+I'm a software engineer<br>I'm currently working in BharatOne<br>I'm currently working on Developement Project<br>For more info contact me :jnrjithesh62@gmail.com
 
 
 ## 🌐 Socials:
